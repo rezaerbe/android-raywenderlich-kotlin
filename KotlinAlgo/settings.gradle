@@ -1,0 +1,3 @@
+include ':libkotlinalgo'
+include ':app'
+rootProject.name = "KotlinAlgo"

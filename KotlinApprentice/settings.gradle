@@ -1,0 +1,3 @@
+include ':kotlinapprenticelib'
+include ':app'
+rootProject.name = "KotlinApprentice"
